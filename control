@@ -1,11 +1,9 @@
 [Product]
 type: localboot
 id: onlyoffice
-name: Only-Office
-description: Only-Office Suite
-advice: 
-version: 7.4.1
-packageVersion: 1.0
+name: ONLYOFFICE
+description: ONLYOFFICE bietet eine breite Palette von Tools zum Erstellen und gemeinsamen Bearbeiten von Textdokumenten, Tabellenkalkulationen, Präsentationen, PDF-Formularen und PDF-Dateien auf Web-, Desktop- und mobilen Plattformen.
+version: 9.1.0
+packageVersion: 1.1
 setupScript: install.ins
 uninstallScript: remove.ins
-internet: true
